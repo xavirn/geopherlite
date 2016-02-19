@@ -1,0 +1,1 @@
+Geopher Lite is a while-you-are-out geocaching application.  It uses geocaching.com's website to help you find geocaches while you are out and about, on the spur of the moment.
